@@ -46,7 +46,7 @@ public class june19_Assignments2
 		int sum = sc.sum(sub2, 2);
 		sc.mult(sum, 2);
 		
-		System.out.println("We did it");
+		System.out.println(" 'We did it' ");
 		
 		
 	}
