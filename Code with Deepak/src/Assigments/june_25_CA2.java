@@ -1,6 +1,6 @@
-package Assigments;
+   package Assigments;
 
-public class june_25_ClassAssignment2 
+public class june_25_CA2 
 {
 	public void m()
 	{
@@ -30,7 +30,7 @@ public class june_25_ClassAssignment2
 	}
 	public static void main(String[] args) 
 	{
-		june_25_ClassAssignment2 obj=new june_25_ClassAssignment2();
+		june_25_CA2 obj=new june_25_CA2();
 		obj.m4();
 	}
 	
