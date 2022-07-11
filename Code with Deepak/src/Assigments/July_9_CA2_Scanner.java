@@ -33,10 +33,10 @@ public class July_9_CA2_Scanner {
 		float Sub2= sum + x5;
 		System.out.println("Here is the Sub total : " + sum);
 		
-		float Div= Sub2/x6;
+		float Div2= Sub2/x6;
 		
-		System.out.println("The Division result is : "+ Div);
-		System.out.println("The final result  " + Math.round(Div));
+		System.out.println("The Division result is : "+ Div2);
+		System.out.println("The final result  " + Math.round(Div2));
 		
 		
 	}
