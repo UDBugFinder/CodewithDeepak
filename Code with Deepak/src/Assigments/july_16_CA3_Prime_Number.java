@@ -1,7 +1,7 @@
 package Assigments;
 import java.util.Scanner;
 
-public class july_16_CA3_Loops_Conditions {
+public class july_16_CA3_Prime_Number {
 public static void main(String[] args) {
 	System.out.println("Please enter the number ");
 	Scanner p=new Scanner(System.in);
